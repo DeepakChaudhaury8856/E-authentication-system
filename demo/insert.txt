@@ -1,0 +1,2 @@
+INSERT into student_detail VALUES
+(sequence_1.nextval,'Aman');
