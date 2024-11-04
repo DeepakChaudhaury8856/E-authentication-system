@@ -1,0 +1,21 @@
+[
+    {
+        "Title": "Meeting Reminder",
+        "Description": "Team meeting at 3 PM",
+        "PostedBy": "Admin",
+        "DatePosted": "2023-11-03T15:30:00"
+    },
+    {
+        "Title": "Maintenance",
+        "Description": "Server maintenance on Sunday",
+        "PostedBy": "IT Dept",
+        "DatePosted": "2023-11-03T15:30:00"
+    },
+    {
+        "Title": "Notice 1",
+        "Description": "This is the description for notice 1",
+        "PostedBy": "User 1",
+        "DatePosted": "2023-11-02T15:30:00"
+    },
+    // ...
+]
